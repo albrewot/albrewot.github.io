@@ -1,11 +1,17 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
+    "applinks":{
+      "apps":[],
+      "details":[
+        {
+          "appIDs":[
+            "9WHJ3DAQ43.com.neodigital.app"
+          ],
+          "components":[
             {
-                "appID": "9WHJ3DAQ43.com.neodigital.app",
-                "paths": [ "*" ]
+              "/":"*"
             }
-        ]
+          ]
+        }
+      ]
     }
-}
+  }

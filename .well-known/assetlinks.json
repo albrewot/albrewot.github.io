@@ -1,10 +1,12 @@
 [
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : {
+    "target": {
       "namespace": "android_app",
       "package_name": "com.bancodevenezuela.bdvdigital",
-      "sha256_cert_fingerprints": ["01:5C:8C:62:16:30:A9:C3:0F:7A:35:7A:D1:83:5C:20:1F:05:9F:DB:0C:E0:DA:B6:02:83:6F:92:B0:DE:A4:F6"]
+      "sha256_cert_fingerprints": [
+        "FB:4E:C0:28:67:B2:F4:CF:1F:7A:26:9A:67:D4:C2:0A:82:EC:6E:0D:A3:CB:0F:48:DB:5C:BC:7C:01:01:30:8F"
+      ]
     }
   }
 ]
