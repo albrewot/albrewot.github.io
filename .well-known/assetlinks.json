@@ -15,7 +15,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.bancodevenezuela.bdvdigital.qa",
+      "package_name": "com.gracaconsultores.bdvdigital.qa",
       "sha256_cert_fingerprints": [
         "01:5C:8C:62:16:30:A9:C3:0F:7A:35:7A:D1:83:5C:20:1F:05:9F:DB:0C:E0:DA:B6:02:83:6F:92:B0:DE:A4:F6"
       ]
