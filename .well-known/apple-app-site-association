@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "RXRPMVEU9K.com.bfcmobile.app",
+                "paths": ["*"]
+            },
+            {
+                "appID": "RXRPMVEU9K.com.bfcmobile.app.dev",
+                "paths": ["*"]
+            },
+            {
+                "appID": "RXRPMVEU9K.com.bfcmobile.app.qa",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
