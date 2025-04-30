@@ -3,16 +3,37 @@
         "apps": [],
         "details": [
             {
-                "appID": "RXRPMVEU9K.com.bfcmobile.app",
-                "paths": ["*"]
+                "comment": "BFC",
+                "appIDs": [
+                    "RXRPMVEU9K.com.bfcmobile.app"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
             },
             {
-                "appID": "RXRPMVEU9K.com.bfcmobile.app.dev",
-                "paths": ["*"]
+                "comment": "BFC DEV",
+                "appIDs": [
+                    "RXRPMVEU9K.com.bfcmobile.app.dev"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
             },
             {
-                "appID": "RXRPMVEU9K.com.bfcmobile.app.qa",
-                "paths": ["*"]
+                "comment": "BFC QA",
+                "appIDs": [
+                    "RXRPMVEU9K.com.bfcmobile.app.qa"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
             }
         ]
     }
