@@ -1,0 +1,36 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bfcmobile.app",
+        "sha256_cert_fingerprints": [
+          "DE:57:AE:E9:0B:60:6B:09:0D:D3:60:F3:EE:C1:E5:57:BD:1D:4E:D7:38:0E:6D:C3:EC:5B:77:5C:72:1F:FE:73",
+          "57:E1:AF:7B:37:6D:0C:AC:0E:FE:40:98:28:03:4D:33:82:76:B7:DE:75:1A:12:AC:1E:7D:EC:68:B9:CD:7A:0E",
+          "66:19:E8:F7:48:01:A4:8E:ED:66:A7:8E:83:A4:8C:E3:C6:7B:EB:20:5B:C2:C2:B0:14:B4:3C:B7:B7:01:6E:64"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bfcmobile.app.qa",
+        "sha256_cert_fingerprints": [
+          "57:E1:AF:7B:37:6D:0C:AC:0E:FE:40:98:28:03:4D:33:82:76:B7:DE:75:1A:12:AC:1E:7D:EC:68:B9:CD:7A:0E",
+          "66:19:E8:F7:48:01:A4:8E:ED:66:A7:8E:83:A4:8C:E3:C6:7B:EB:20:5B:C2:C2:B0:14:B4:3C:B7:B7:01:6E:64"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.bfcmobile.app.dev",
+        "sha256_cert_fingerprints": [
+          "57:E1:AF:7B:37:6D:0C:AC:0E:FE:40:98:28:03:4D:33:82:76:B7:DE:75:1A:12:AC:1E:7D:EC:68:B9:CD:7A:0E",
+          "66:19:E8:F7:48:01:A4:8E:ED:66:A7:8E:83:A4:8C:E3:C6:7B:EB:20:5B:C2:C2:B0:14:B4:3C:B7:B7:01:6E:64"
+        ]
+      }
+    }
+  ]
