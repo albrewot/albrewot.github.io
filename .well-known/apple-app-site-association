@@ -34,6 +34,39 @@
                         "/": "*"
                     }
                 ]
+            },
+            {
+                "comment": "Plaza PROD",
+                "appIDs": [
+                    "LQA7YM8C3L.com.bancoplaza.app"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
+            },
+            {
+                "comment": "Plaza QA",
+                "appIDs": [
+                    "LQA7YM8C3L.com.bancoplaza.app.qa"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
+            },
+            {
+                "comment": "Plaza DEV",
+                "appIDs": [
+                    "LQA7YM8C3L.com.bancoplaza.app.dev"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
             }
         ]
     }
