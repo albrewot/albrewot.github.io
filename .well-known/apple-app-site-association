@@ -3,6 +3,39 @@
         "apps": [],
         "details": [
             {
+                "comment": "BFC",
+                "appIDs": [
+                    "RXRPMVEU9K.com.bfcmobile.app"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
+            },
+            {
+                "comment": "BFC DEV",
+                "appIDs": [
+                    "RXRPMVEU9K.com.bfcmobile.app.dev"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
+            },
+            {
+                "comment": "BFC QA",
+                "appIDs": [
+                    "RXRPMVEU9K.com.bfcmobile.app.qa"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
+            },
+            {
                 "comment": "Plaza PROD",
                 "appIDs": [
                     "LQA7YM8C3L.com.bancoplaza.app"
